@@ -12,5 +12,3 @@ if (Test-Path $clamWinUninstallPath) {
     Write-Output "ClamWin antivirus is not installed."
 }
 
-# Exit the script after completing the tasks
-exit
