@@ -2,6 +2,8 @@
 Set-MpPreference -DisableRealtimeMonitoring $false -Force
 Set-MpPreference -CloudBlockLevel 0 -Force
 Set-MpPreference -MAPSReporting 1 -Force
+Set-MpPreference -SubmitSamplesConsent 1 -Force
+
 
 # Uninstall ClamWin antivirus if it exists
 $clamWinUninstallPath = "C:\Program Files (x86)\ClamWin\unins000.exe"
