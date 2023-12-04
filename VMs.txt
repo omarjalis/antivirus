@@ -1,4 +1,4 @@
-VMO1    omar-rg
-VMO2    omar-rg
-VMO3    omar2-rg
-VMO4    omar3-rg
+vmo1  omar-rg
+vmo2  omar-rg
+VMO3  omar2-rg
+VMO4  omar3-rg
