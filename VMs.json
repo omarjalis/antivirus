@@ -1,0 +1,6 @@
+[
+    {"VMName": "vmo1", "ResourceGroup": "omar-rg"},
+    {"VMName": "vmo2", "ResourceGroup": "omar-rg"},
+    {"VMName": "VMO3", "ResourceGroup": "omar2-rg"},
+    {"VMName": "VMO4", "ResourceGroup": "omar3-rg"}
+]
